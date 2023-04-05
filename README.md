@@ -1,1 +1,1 @@
-# fitst-next-app
+# first-next-app
